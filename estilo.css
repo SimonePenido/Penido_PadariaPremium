@@ -1,0 +1,104 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #F2D3AC;
+    margin: 0;
+}
+
+.secao {
+    width: 100vh;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.imagem-logotipo {
+    width: 250px;
+}
+
+#sobre {
+    width: 90vh;
+}
+
+a {
+    margin: 0 10px;
+    color: #83440a;
+}
+
+h1 {
+    font-size: 1.8rem;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: normal;
+    color: #974c06;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.imagem-banner {
+    width: 90vh;
+    border: 1px solid #de8e37;
+}
+
+.secao-destaque {
+    background-color: #BF6734;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+.secao-destaque h3 {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.secao-destaque h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.secao-destaque p {
+    width: 70vh;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.secao-destaque img {
+    width: 70vh;
+    border: 1px solid #fff;
+}
+
+span {
+    font-weight: bold;
+}
+
+#produtos img {
+    margin: 1em;
+}
+
+#contato {
+    padding: 1em;
+    background-color: #361b01;
+    color: #fff;
+    align-items: center;
+
+}
+
+#contato li {
+
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
